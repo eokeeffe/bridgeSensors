@@ -105,5 +105,5 @@ void loop ()
     // SD card is filled with data.
     dataFile.flush();
     
-    delay(100);
+    delay(50);
 }
